@@ -1,3 +1,3 @@
 <p align='center'>
-  <img src="sc.png">
+  <img src="read.png">
 </p>
