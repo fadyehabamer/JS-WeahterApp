@@ -34,7 +34,7 @@ body {
   display: flex;
   font-size: 21px;
   font-weight: 500;
-  color: #43AFFC;
+  color: #74BCE2;
   padding: 16px 15px;
   align-items: center;
   border-bottom: 1px solid #ccc;
@@ -127,7 +127,7 @@ header i {
 .input-part button {
   color: #fff;
   cursor: pointer;
-  background: #43AFFC;
+  background: #74BCE2;
   transition: 0.3s ease;
 }
 
